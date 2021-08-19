@@ -1,7 +1,7 @@
 # Hoi! 👋
 
-I'm Rayo, he/they, a Cog Sci grad at the University of Edinburgh.
+I'm Rayo, he/they, Lead Developer at Voxsio, ex-Cognitive Science at the University of Edinburgh.
 
-I like to think about education, coding, and language, and how they come together; the way we think and learn about things, and how technology can influence that. Sometimes I build something that touches on these fields, usually in React or Kotlin, and when I do, it will probably end up here.
+My work tends to live somewhere between computer science, cognitive neuroscience, and linguistics, bridging academic thought with real-world implementations, always for the public good. Currently @Voxsio, I'm exploring intelligent conversational software for mental health applications. In general, my stack includes web apps with React/TypeScript, mobile apps with React Native or sometimes native Kotlin/Java on Android, scripting with Python, and NLU with RASA. 
 
 Don't hesitate to get in touch if you see anything interesting!
