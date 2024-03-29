@@ -1,7 +1,7 @@
 # Hoi! 👋
 
-I'm Rayo, he/they, CTO at UB-OK, ex-Cognitive Science at the University of Edinburgh.
+I'm Rayo, he/they, CTO @voxsio, Treasurer @Prewired, ex-Cognitive Science at the University of Edinburgh.
 
-My work tends to live somewhere between computer science, cognitive neuroscience, and linguistics, bridging academic thought with real-world implementations, always for the public good. Currently @ub-ok, I'm exploring intelligent conversational software for mental health applications. In general, my stack includes web apps with React/TypeScript, mobile apps with React Native or sometimes native Kotlin/Java on Android, scripting with Python, and NLU with RASA. 
+At Voxsio we work on ethical and conversational digital health apps. Currently, our main focus is UB-OK, our app supporting young people with functional gastrointestinal disorders and comorbid mental health issues, created in close collaboration with NHS Grampian and delivered through our bespoke chatbot building platform Botany. Beyond such topics as designing for mental health and AI for social good I'm more broadly interested in such things as embodied cognition, psycholinguistics, design informatics, educational technology, and web tech.
 
-Don't hesitate to get in touch if you see anything interesting!
+Don't hesitate to get in touch if you feel like it!
