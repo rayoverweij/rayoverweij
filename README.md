@@ -1,7 +1,7 @@
 # Hoi! 👋
 
-I'm Rayo, he/they, a PhD Student in Designing Responsible NLP at the University of Edinburgh, CTO at Voxsio, and Treasurer at Prewired.
+I'm Rayo, he/they, a PhD Student on the Centre for Doctoral Training in Designing Responsible NLP at the University of Edinburgh.
 
-At Voxsio we work on ethical and conversational digital health apps. Currently, our main focus is UB-OK, our app supporting young people with functional gastrointestinal disorders and comorbid mental health issues, created in close collaboration with NHS Grampian and delivered through our bespoke chatbot building platform Botany. Beyond such topics as designing for mental health and AI for social good I'm more broadly interested in such things as embodied cognition, psycholinguistics, design informatics, educational technology, and web tech.
+My work focuses on the use of AI in schools and specifically how to involve students themselves in the processes of design and development of the NLP-based tools that are being built for their education. I'm also a trustee of Prewired, an Edinburgh charity that runs an after-school coding club for young people, and in a previous life was the CTO of Voxsio, a start-up building ethical conversational digital health apps in collaboration with NHS Scotland.
 
 Don't hesitate to get in touch if you feel like it!
